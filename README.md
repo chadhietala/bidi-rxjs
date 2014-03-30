@@ -7,5 +7,5 @@ This a prototype for bidirectional support for input fields.
 ```
 npm install
 bower install
-python -m SimpleHTTPServer 1234 // Or jsut open the file in the browser
+python -m SimpleHTTPServer 1234 // Or just open the file in the browser
 ```
