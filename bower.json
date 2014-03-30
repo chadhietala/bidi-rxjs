@@ -1,0 +1,25 @@
+{
+  "name": "bidi",
+  "version": "0.0.0",
+  "authors": [
+    "Chad Hietala <chadhietala@gmail.com>"
+  ],
+  "description": "Bidi support with rxjs",
+  "main": "main.js",
+  "keywords": [
+    "rxjs",
+    "bidi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "rxjs": "~2.2.16",
+    "rx-dom": "~2.0.8"
+  }
+}

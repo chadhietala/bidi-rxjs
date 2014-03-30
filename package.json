@@ -1,0 +1,20 @@
+{
+  "name": "bidi",
+  "version": "0.0.0",
+  "description": "Bidi support with rxjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bidi",
+    "rxjs"
+  ],
+  "author": "Chad Hietala",
+  "license": "ISC",
+  "devDependencies": {
+    "broccoli": "^0.5.0",
+    "grunt": "^0.4.4",
+    "grunt-es6-module-transpiler": "^0.6.0"
+  }
+}

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bidi</title>
+</head>
+<body>
+  <h1>Bidirectional Support Using RxJs Dom Observables</h1>
+
+  <p>Instead of using normal event listeners, this example uses RxJs's Observables to compose UI interactions.</p>
+
+  <input type="text">
+  <p>This input box supports bidirectional support. Type any right-left-character in the box and the direction of the input will change. Here is some rtl text مرحبا العالم .</p>
+  <script src="bower_components/rxjs/rx.lite.js"></script>
+  <script src="bower_components/rx-dom/rx.dom.js"></script>
+  <script src="dist/BidiEl.js"></script>
+  <script src="dist/main.js"></script>
+</body>
+</html>
